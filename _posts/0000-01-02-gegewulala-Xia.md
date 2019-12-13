@@ -2,5 +2,5 @@
 layout: slide
 content: "welcome to our second slideee!"
 ---
-Your text
+emm the dish is tasty!
 Use the left arrow to go back!
